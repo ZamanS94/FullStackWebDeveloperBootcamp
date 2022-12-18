@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color:blue;
+}
+
+#nav-bar{
+    position: fixed;
+    display: flex;
+  }
+  
+.nav-link{
+     padding: 5px;
+  }
